@@ -1,4 +1,4 @@
-### Приложение: [ПОСТ](https://jon666grid.github.io/redux-react-project/)
+### Приложение: [Posts](https://jon666grid.github.io/redux-react-project/)
 
 `````
 Изучая Redax-React технологию создал небольшое Pet приложения по созданию и запросу постов
